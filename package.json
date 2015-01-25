@@ -1,0 +1,11 @@
+{
+   "author": "IBM",
+   "dependencies": {
+      "sensortag":"*",
+      "mqtt":"0.3.13",
+      "getmac":"*",
+      "properties":"*"
+   },
+   "description": "Published data to the IoT cloud.",
+   "main": "devicetoiot.js"
+}
